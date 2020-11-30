@@ -1,0 +1,2 @@
+E:\GitHubaky\gitclient\studenti_znamky\Znamky\obj\Debug\Znamky.csprojAssemblyReference.cache
+E:\GitHubaky\gitclient\studenti_znamky\Znamky\obj\Debug\Znamky.csproj.CoreCompileInputs.cache
